@@ -27,9 +27,12 @@
 }
 
 .ui.huge.center.aligned.header {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
   color: white;
   padding-top: 25px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .ui.borderless.inverted.menu {
