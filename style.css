@@ -17,12 +17,12 @@
   margin-top: 0;
   padding-top: 5px;
   border-radius: 0;
-  padding-left: 30px;
+  padding-left: 270px;
 }
 
 .dark-background {
   background-color: #0A0A0A;
-  height: 645px;
+  height: 675px;
   margin-top: -15px;
 }
 
@@ -50,4 +50,8 @@
 
 .image {
   padding-top: 5px;
+}
+
+.ui.centered.image {
+  padding-top: 20px;
 }
